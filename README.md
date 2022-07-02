@@ -1,6 +1,7 @@
 # diogomcasado.github.io
 Mona Lisa in CSS
 
+```
           ____  
         o8%8888,    
       o88%8888888.  
@@ -18,3 +19,5 @@ Mona Lisa in CSS
  d88%            %%%8--'-.  
 /88:.__ ,       _%-' ---  -  
     '''::===..-'   =  --.
+    
+```
